@@ -1,5 +1,5 @@
 # tailwindcss-frosted
-A TailwindCSS plugin that provides a set of `frosted` classes to create a modern illusion of layering for modals and slide-over elements.
+A TailwindCSS plugin that provides a set of `frosted` classes to create a modern layering effect for modals and slide-over elements.
 
 
 ```html
@@ -15,9 +15,8 @@ A TailwindCSS plugin that provides a set of `frosted` classes to create a modern
 Install the plugin from npm:
 
 ```sh
-# Using npm
 npm install @mjwebs/tailwindcss-frosted
-
+```
 
 Then add the plugin to your `tailwind.config.js` file:
 
